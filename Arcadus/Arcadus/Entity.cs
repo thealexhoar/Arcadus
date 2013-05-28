@@ -14,6 +14,8 @@ namespace Arcadus {
         public String asset;
         public ContentManager content;
         public Color color = Color.White;
+        public bool visible = true;
+        public bool inWorld = true;
 
         public Entity(Vector2 pos, Vector2 speed,String asset, ContentManager content) {
             this.pos = pos;
@@ -27,10 +29,12 @@ namespace Arcadus {
         protected virtual void get_Rect() {
             this.rect.X = (int)this.pos.X;
             this.rect.Y = (int)this.pos.Y;
-            this.rect.Width = this.texture.Width;
-            this.rect.Height = this.texture.Height;
+            if (this.texture != null) {
+                this.rect.Width = this.texture.Width;
+                this.rect.Height = this.texture.Height;
+            }
         }
-        public void LoadContent() {
+        public virtual void LoadContent() {
             if (this.asset != "") { this.texture = GV.content.Load<Texture2D>(this.asset); }
             this.get_Rect();
         }
@@ -41,8 +45,12 @@ namespace Arcadus {
             if (this.OnUpdate != null) { this.OnUpdate(this, new EventArgs()); }
         }
         public virtual void Draw(SpriteBatch spritebatch) {
-            Rectangle rect = new Rectangle((int)(this.pos - Main.camera_pos).X, (int)(this.pos - Main.camera_pos).Y, this.rect.Width, this.rect.Height);
-            if (this.texture != null) { spritebatch.Draw(this.texture, rect, null, this.color, 0.0f, new Vector2(), SpriteEffects.None, 0.1f); }
+            if (this.visible) {
+                Rectangle rect;
+                if (inWorld) { rect = new Rectangle((int)(this.pos - Main.camera_pos).X, (int)(this.pos - Main.camera_pos).Y, this.rect.Width, this.rect.Height); }
+                else { rect = this.rect; }
+                if (this.texture != null) { spritebatch.Draw(this.texture, rect, null, this.color, 0.0f, new Vector2(), SpriteEffects.None, 0.1f); }
+            }
         }
     }
 }

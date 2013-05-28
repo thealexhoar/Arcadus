@@ -23,14 +23,14 @@ namespace GetLevel {
             if (url == "") { return WebPageParser.FromString(fallBackPage);  }
             else {
                 WebPageParser foo = new WebPageParser();
-                if (url.IndexOf("http://") < 0 && url.IndexOf("https://") < 0 || (url.IndexOf(".") < 0) || (url.IndexOf("///") > 0)) {
+                if (url.IndexOf("http://") < 0 && url.IndexOf("https://") < 0 || (url.IndexOf(".") < 0)) {
                     url = "http://" + url;
                 }
                 if (foo.browser == null) { foo.browser = new HtmlWeb(); }
                 if (foo.client == null) { foo.client = new WebClient(); }
                 try {
                     try { foo.document = foo.browser.Load(url); }
-                    catch (UriFormatException e) { WebPageParser.FromString(fallBackPage); }
+                    catch (UriFormatException e) { foo = WebPageParser.FromString(fallBackPage); }
                 foo.url = url;}
                 catch (Exception e) { foo = WebPageParser.FromString(fallBackPage); }
                 
@@ -50,8 +50,19 @@ namespace GetLevel {
 
         public List<String> GetAllLinks() {
             List<String> list = new List<String>();
+            int i = 0;
             foreach (var node in this.document.DocumentNode.DescendantsAndSelf("a")) {
-                list.Add(node.GetAttributeValue("href", ""));
+                if (i < 200) {
+                    string linkURL = node.GetAttributeValue("href", "");
+                    if (linkURL != "" && linkURL.IndexOf("javascript") != 0 && linkURL.IndexOf("+") != 0) {
+                        if (linkURL.IndexOf("/") == 0 && linkURL.Length > 1) {
+                            linkURL = GetRootUrl() + linkURL;
+                            //Console.WriteLine(linkURL);
+                        }
+                        list.Add(node.GetAttributeValue("href", ""));
+                    }
+                }
+                i++;
             }
             return list;
         }

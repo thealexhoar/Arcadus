@@ -33,8 +33,8 @@ namespace Arcadus
 
         public override void Update() {
             i %= 30;
-            float bulletx = 0.0f;
-            float bullety = 0.0f;
+            //float bulletx = 0.0f;
+            //float bullety = 0.0f;
             float dx = 0.0f;
             float dy = 0.0f;
             Random random = new Random();

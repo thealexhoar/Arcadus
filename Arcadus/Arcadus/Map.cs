@@ -30,7 +30,9 @@ namespace Arcadus
 
             Random random = new Random();
             int index = 0;
+            Console.WriteLine("Creating level generator...");
             LevelGen lvlgen = new LevelGen(url);
+            Console.WriteLine("Finished level generation, populating grid...");
             int[,] grid = lvlgen.LevelGrid;
             if (grid == null) {
                 hasError = true;
@@ -44,8 +46,8 @@ namespace Arcadus
             }
             for (int x = 1; x < grid.GetLength(0) - 2; x++) {
                 for (int y = 1; y < grid.GetLength(1); y++) {
-                    if (hasError && (x == 0 || x == grid.GetLength(0) - 1 || y == 0 || y == grid.GetLength(0) - 1) && (x != 1 && y != 1)) { grid[x, y] = 1; }
-                    if (random.Next(0, 50) == 12) { grid[x, y] = 1; }
+                    if (hasError && (x == 0 || x == grid.GetLength(0) - 1 || y == 0 || y == grid.GetLength(0) - 1)) { grid[x, y] = 1; }
+                    if (random.Next(0, 50) == 12 && (x != 1 && y != 1)) { grid[x, y] = 1; }
                 }
             }
             this.grid = new Tile[grid.GetLength(0), grid.GetLength(1)];

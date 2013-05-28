@@ -17,7 +17,7 @@
     <XnaCrossPlatformGroupID>51a7c7fe-0b67-49e6-bf1d-efda9a51caba</XnaCrossPlatformGroupID>
     <XnaOutputType>Game</XnaOutputType>
     <ApplicationIcon>Game.ico</ApplicationIcon>
-    <Thumbnail>Man_2_left_w.png</Thumbnail>
+    <Thumbnail>GameThumbnail.png</Thumbnail>
     <IsWebBootstrapper>false</IsWebBootstrapper>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
@@ -109,6 +109,7 @@
   <ItemGroup>
     <Compile Include="Bullet.cs" />
     <Compile Include="Background.cs" />
+    <Compile Include="GUI.cs" />
     <Compile Include="Label.cs" />
     <Compile Include="Mob.cs" />
     <Compile Include="Entity.cs">
@@ -125,7 +126,6 @@
   <ItemGroup>
     <Content Include="Game.ico" />
     <Content Include="GameThumbnail.png" />
-    <Content Include="Man_2_left_w.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\GetLevel\GetLevel\GetLevel.csproj">

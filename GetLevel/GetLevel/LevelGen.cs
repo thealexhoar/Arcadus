@@ -16,16 +16,17 @@ namespace GetLevel {
 
         public LevelGen(string url) {
             //while (true) {
-                //Console.Write("Enter a URL: ");
+                Console.WriteLine("Creating web page parser");
                 try {
                     //String uri = Console.ReadLine();
                     //if (uri.Equals("q")) Environment.Exit(1);
                     web = WebPageParser.FromUrl(url);
                 }
                 catch (Exception e) {
-                    Console.WriteLine(e);
+                    Console.WriteLine(e.Message);
                     web = new WebPageParser();
                 }
+                Console.WriteLine("Web page parser created successfully");
                 this.GetLevel(web.GetTotalWebsiteElements());
                 this.MakeDoors(Math.Min((LevelGrid.GetLength(0) + LevelGrid.GetLength(1)) / 2, web.GetAllLinks().Count));
                 this.title = web.GetWebpageTitle();

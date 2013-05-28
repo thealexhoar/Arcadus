@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using Microsoft.Xna.Framework;
@@ -74,19 +74,19 @@ namespace Arcadus
             }
         }
 
-        Label LevelTitle;
-        Label ScoreLabel;
-        Label LivesLabel;
+        GameGUI gameGUI;
         public void StartLevel(object sender, StartLevelEventArgs e) {
             this.StartLevel(e.url);
         }
         protected void StartLevel() {
-            this.StartLevel("reddit.com");
+            this.StartLevel("google.com");
         }
         protected void StartLevel(string url) {
             GV.EntityList.Clear();
             this.BackgroundColor = new Color(10, 10, 10);
+            Console.WriteLine("Loading remote site...");
             map = new Map(url, "type", Content);
+            Console.WriteLine("Finished loading remote site");
             if (map.hasError) { map.title = "Unable to retrieve remote data"; }
             ex = new Hero(new Vector2(40.0f), new Vector2(1.0f), "Man_1_right_e", Content);
             for (int x = 0; x < 3; x++) {
@@ -94,29 +94,11 @@ namespace Arcadus
             }
             ex.LoadContent();
             map.DetermineTileGraphics();
-            LevelTitle = new Label(new Vector2(0, 0), map.title, Content);
-            LevelTitle.pos = new Vector2(400 - (LevelTitle.font.MeasureString(LevelTitle.text).X / 2), 4);
-            ScoreLabel = new Label(new Vector2(0, 0), "Score: " + this.score.ToString(), Content);
-            ScoreLabel.pos = new Vector2( 796 - (ScoreLabel.font.MeasureString(score.ToString()).X), 4);
-            ScoreLabel.OnUpdate += update_score;
-            LivesLabel = new Label(new Vector2(0, 0), " ", Content);
-            LivesLabel.pos = new Vector2(4, 4);
-            LivesLabel.OnUpdate += update_lives;
-        }
-
-        private void update_score(object sender, EventArgs e) {
-            Label label = ((Label)sender);
-            label.text = "Score: " + score.ToString();
-            label.pos = new Vector2(796 - label.font.MeasureString(label.text).X, 4);
-        }
-
-        private void update_lives(object sender, EventArgs e) {
-            Label label = ((Label)sender);
-            string labelText = "Lives: ";
-            for (int i = 0; i < ex.lives; i++) {
-                labelText += "<3 ";
-            }
-            label.text = labelText;
+            gameGUI = new GameGUI(new Vector2(0, 0), Content);
+            gameGUI.SetLives(ex.lives);
+            gameGUI.SetScore(score);
+            gameGUI.SetTitleText(map.title);
+            gameGUI.LoadContent();
         }
 
         protected override void LoadContent() {
@@ -142,7 +124,10 @@ namespace Arcadus
             {
                 GV.EntityList[e].Update();
             }
-            // TODO: Add your update logic here
+            if (gameGUI != null) {
+                if (ex != null && ex.lives != gameGUI.lives) { gameGUI.SetLives(ex.lives); }
+                gameGUI.SetScore(score);
+            }
 
             base.Update(gameTime);
         }

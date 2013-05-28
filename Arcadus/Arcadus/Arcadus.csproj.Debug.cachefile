@@ -19,7 +19,6 @@ Content\Man_2_right_se.xnb
 Content\Man_1_left_sw.xnb
 Content\Man_2_left_sw.xnb
 Content\bullet1.xnb
-Content\DarkKnight.xnb
 Content\Tile.xnb
 Content\wall.xnb
 Content\tile_dirt_all.xnb
@@ -54,7 +53,6 @@ Content\Troll_1_Left.xnb
 Content\Troll_1_Right.xnb
 Content\Troll_2_Left.xnb
 Content\Troll_2_Right.xnb
-Content\Text.xnb
 Content\tile_ethernet_bl.xnb
 Content\tile_ethernet_br.xnb
 Content\tile_ethernet_lb.xnb
@@ -64,3 +62,5 @@ Content\tile_ethernet_rt.xnb
 Content\tile_ethernet_tl.xnb
 Content\tile_ethernet_tr.xnb
 Content\Door.xnb
+Content\heart.xnb
+Content\Text.xnb

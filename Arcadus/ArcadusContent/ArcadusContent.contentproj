@@ -153,13 +153,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DarkKnight.png">
-      <Name>DarkKnight</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-    </Compile>
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="Tile.png">
       <Name>Tile</Name>
       <Importer>TextureImporter</Importer>
@@ -393,6 +386,13 @@
   <ItemGroup>
     <Compile Include="Door.png">
       <Name>Door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="heart.png">
+      <Name>heart</Name>
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
     </Compile>
