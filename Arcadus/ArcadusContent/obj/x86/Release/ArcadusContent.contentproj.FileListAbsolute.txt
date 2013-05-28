@@ -1,2 +1,0 @@
-D:\Arcadus\Arcadus\ArcadusContent\obj\x86\Release\ResolveAssemblyReference.cache
-F:\Dev\C#\Projects\Arcadus\Arcadus\ArcadusContent\obj\x86\Release\ArcadusContent.contentprojResolveAssemblyReference.cache

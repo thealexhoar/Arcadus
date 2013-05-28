@@ -1,2 +1,0 @@
-C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\ArcadusContent\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Arcadus\Arcadus\ArcadusContent\obj\x86\Debug\ResolveAssemblyReference.cache
