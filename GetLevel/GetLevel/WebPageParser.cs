@@ -17,13 +17,13 @@ namespace GetLevel {
         public string url;
 
 
-        public static string fallBackPage = "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><title>The Webpage Dungeon</title><style type=\"text/css\">body {background-color:#EEEEEE; color:#222222; }</style></head><body> <p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p> <a href=\"http://reddit.com/\">Reddit</a> <a href=\"http://google.com/\">Google</a><a href=\"http://youtube.com/\">Youtube</a></body></html>";
+        public static string fallBackPage = "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\"><html xmlns=\"http://www.w3.org/1999/xhtml\"><head><title>The Webpage Dungeon</title><style type=\"text/css\">body {background-color:#EEEEEE; color:#222222; }</style></head><body> <p></p><p></p><p></p><p></p><p></p><p></p><p><p></p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p><p></p> <a href=\"http://reddit.com/\">Reddit</a> <a href=\"http://google.com/\">Google</a><a href=\"http://youtube.com/\">Youtube</a></body></html>";
 
         public static WebPageParser FromUrl(string url) {
             if (url == "") { return WebPageParser.FromString(fallBackPage);  }
             else {
                 WebPageParser foo = new WebPageParser();
-                if (url.IndexOf("http://") < 0 && url.IndexOf("https://") < 0) {
+                if (url.IndexOf("http://") < 0 && url.IndexOf("https://") < 0 || (url.IndexOf(".") < 0) || (url.IndexOf("///") > 0)) {
                     url = "http://" + url;
                 }
                 if (foo.browser == null) { foo.browser = new HtmlWeb(); }

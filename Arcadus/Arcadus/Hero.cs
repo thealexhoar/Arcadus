@@ -100,7 +100,8 @@ namespace Arcadus
                         }
                     }
                     if (Main.map.grid[x, y].tile_type == 2) {
-                        if (this.rect.Intersects(Main.map.grid[x, y].rect)) {
+                        Rectangle origRect = Main.map.grid[x, y].rect;
+                        if (this.rect.Intersects(new Rectangle(origRect.X + 8, origRect.Y + 8, 24, 24))) {
                             Main.map.grid[x, y].InvokeDoorLink();
                             y = Main.map.grid.GetLength(1) - 1;
                             x = Main.map.grid.GetLength(0) - 1;

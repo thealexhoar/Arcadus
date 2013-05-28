@@ -39,11 +39,12 @@ namespace Arcadus
             }
             else { 
                 this.title = lvlgen.title;
-                index = random.Next(lvlgen.colors.Count);
+                index = random.Next(Math.Max(0, lvlgen.colors.Count - 4), lvlgen.colors.Count);
+                GV.MainInstance.BackgroundColor = Backgroundify(lvlgen.colors[index]);
             }
             for (int x = 1; x < grid.GetLength(0) - 2; x++) {
                 for (int y = 1; y < grid.GetLength(1); y++) {
-                    if (hasError && (x == 0 || x == grid.GetLength(0) - 1 || y == 0 || y == grid.GetLength(0) - 1)) { grid[x, y] = 1; }
+                    if (hasError && (x == 0 || x == grid.GetLength(0) - 1 || y == 0 || y == grid.GetLength(0) - 1) && (x != 1 && y != 1)) { grid[x, y] = 1; }
                     if (random.Next(0, 50) == 12) { grid[x, y] = 1; }
                 }
             }
@@ -56,7 +57,7 @@ namespace Arcadus
                         tile = "Door"; 
                     }
                     this.grid[x, y] = new Tile(new Vector2((float)(x * 40), (float)(y * 40)), new Vector2(), tile, GV.content, grid[x, y]);
-                    this.grid[x, y].color = lvlgen.colors[index];
+                    if (grid != null) { this.grid[x, y].color = lvlgen.colors[index]; }
                     if (this.grid[x, y].tile_type == 2) {
                         this.grid[x, y].doorURL = lvlgen.dict[new Tuple<int, int>(x, y)];
                         this.grid[x, y].onPlayerTouch += GV.MainInstance.StartLevel;
@@ -64,6 +65,10 @@ namespace Arcadus
                 }
             }
             
+        }
+
+        public Color Backgroundify(Color color) {
+            return new Color(color.R * (17 / 255), color.G * (17 / 255), color.B * (17 / 255));
         }
 
         public void DetermineTileGraphics() {

@@ -81,7 +81,7 @@ namespace Arcadus
             this.StartLevel(e.url);
         }
         protected void StartLevel() {
-            this.StartLevel("google.com");
+            this.StartLevel("reddit.com");
         }
         protected void StartLevel(string url) {
             GV.EntityList.Clear();

@@ -12,6 +12,7 @@ namespace GetLevel {
         public int[,] LevelGrid;
         public string title;
         public List<Color> colors;
+        public Color primaryColor;
 
         public LevelGen(string url) {
             //while (true) {
@@ -26,9 +27,10 @@ namespace GetLevel {
                     web = new WebPageParser();
                 }
                 this.GetLevel(web.GetTotalWebsiteElements());
-                this.MakeDoors(5);
+                this.MakeDoors(Math.Min((LevelGrid.GetLength(0) + LevelGrid.GetLength(1)) / 2, web.GetAllLinks().Count));
                 this.title = web.GetWebpageTitle();
                 this.colors = GetAllColors(web);
+                this.primaryColor = getMostColorful(this.colors);
             //}
         }
 
@@ -37,7 +39,23 @@ namespace GetLevel {
             foreach (string hexcode in wbpp.GetAllWebpageColors()) {
                 AllColors.Add(ParseColor(hexcode));
             }
+            AllColors.Sort(delegate(Color a, Color b) {
+                if (GetColorfulnessIndex(a) > GetColorfulnessIndex(b)) { return 1; }
+                else if (GetColorfulnessIndex(a) == GetColorfulnessIndex(b)) { return 0; }
+                else return -1;
+            });
             return AllColors;
+        }
+
+        private Color getMostColorful(List<Color> Colors) {
+            Color bestColor = Colors[0];
+            foreach (Color color in Colors) {
+                if (GetColorfulnessIndex(color) > GetColorfulnessIndex(bestColor)) { bestColor = color; }
+            }
+            return bestColor;
+        }
+        private int GetColorfulnessIndex(Color color) {
+            return Math.Abs(color.R - color.G) + Math.Abs(color.G - color.B) + Math.Abs(color.R - color.B);
         }
 
         private static Color ParseColor(string hexcode) {
@@ -62,9 +80,15 @@ namespace GetLevel {
         }
 
         public void GetLevel(int n) {
+            if (n < 12) { n = 12; }
             List<Tuple<int, int>> factors = this.getFactors(n);
-            int rows = factors[factors.Count - 1].Item1;
-            int columns = factors[factors.Count - 1].Item2;
+            int rows = 0, columns = 0;
+            while (rows <= 3 || columns <= 3) {
+                factors = this.getFactors(n);
+                rows = factors[factors.Count - 1].Item1;
+                columns = factors[factors.Count - 1].Item2;
+                n++;
+            }
             LevelGrid = new int[rows, columns];
             
             //Make the edge of the map all walls
@@ -165,8 +189,12 @@ namespace GetLevel {
         }
         private void getDoorDict(Tuple<int,int> t,int i) {
             List<string> Link_String = web.GetAllLinks();
-            if (i >= Link_String.Count() || Link_String[i] == "") { i = 0; }
-            dict.Add(t,Link_String[i]);
+            Random rand = new Random();
+            i = rand.Next(0, Link_String.Count);
+            while (i >= Link_String.Count || Link_String[i] == "" || Link_String[i][0] == '#' || Link_String[i].IndexOf("javascipt") > 0) {
+                i = rand.Next(0, Link_String.Count);
+            }
+            if (!dict.Keys.Contains(t)) { dict.Add(t,Link_String[i]); }
         }
 
 

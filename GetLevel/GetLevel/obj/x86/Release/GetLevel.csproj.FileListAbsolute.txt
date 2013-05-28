@@ -4,3 +4,9 @@ D:\Arcadus\GetLevel\GetLevel\bin\Release\HtmlAgilityPack.dll
 D:\Arcadus\GetLevel\GetLevel\obj\x86\Release\ResolveAssemblyReference.cache
 D:\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.dll
 D:\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.pdb
+F:\Dev\C#\Projects\Arcadus\GetLevel\GetLevel\bin\Release\GetLevel.dll
+F:\Dev\C#\Projects\Arcadus\GetLevel\GetLevel\bin\Release\GetLevel.pdb
+F:\Dev\C#\Projects\Arcadus\GetLevel\GetLevel\bin\Release\HtmlAgilityPack.dll
+F:\Dev\C#\Projects\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.csprojResolveAssemblyReference.cache
+F:\Dev\C#\Projects\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.dll
+F:\Dev\C#\Projects\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.pdb
