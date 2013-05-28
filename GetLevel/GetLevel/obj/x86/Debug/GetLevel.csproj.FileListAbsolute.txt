@@ -1,0 +1,18 @@
+C:\Users\s-nrush\Desktop\Dev\GetLevel\GetLevel\bin\Debug\GetLevel.exe
+C:\Users\s-nrush\Desktop\Dev\GetLevel\GetLevel\bin\Debug\GetLevel.pdb
+C:\Users\s-nrush\Desktop\Dev\GetLevel\GetLevel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s-nrush\Desktop\Dev\GetLevel\GetLevel\obj\x86\Debug\GetLevel.exe
+C:\Users\s-nrush\Desktop\Dev\GetLevel\GetLevel\obj\x86\Debug\GetLevel.pdb
+C:\Users\s-nrush\Desktop\Dev\GetLevel\GetLevel\bin\Debug\HtmlAgilityPack.dll
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\GetLevel\GetLevel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\GetLevel\GetLevel\bin\Debug\GetLevel.dll
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\GetLevel\GetLevel\bin\Debug\GetLevel.pdb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\GetLevel\GetLevel\bin\Debug\HtmlAgilityPack.dll
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\GetLevel\GetLevel\obj\x86\Debug\GetLevel.dll
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\GetLevel\GetLevel\obj\x86\Debug\GetLevel.pdb
+D:\Arcadus\GetLevel\GetLevel\bin\Debug\GetLevel.dll
+D:\Arcadus\GetLevel\GetLevel\bin\Debug\GetLevel.pdb
+D:\Arcadus\GetLevel\GetLevel\bin\Debug\HtmlAgilityPack.dll
+D:\Arcadus\GetLevel\GetLevel\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Arcadus\GetLevel\GetLevel\obj\x86\Debug\GetLevel.dll
+D:\Arcadus\GetLevel\GetLevel\obj\x86\Debug\GetLevel.pdb

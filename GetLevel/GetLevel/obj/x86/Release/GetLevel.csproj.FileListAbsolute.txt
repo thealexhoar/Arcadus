@@ -1,0 +1,6 @@
+D:\Arcadus\GetLevel\GetLevel\bin\Release\GetLevel.dll
+D:\Arcadus\GetLevel\GetLevel\bin\Release\GetLevel.pdb
+D:\Arcadus\GetLevel\GetLevel\bin\Release\HtmlAgilityPack.dll
+D:\Arcadus\GetLevel\GetLevel\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.dll
+D:\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.pdb

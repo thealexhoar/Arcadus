@@ -1,0 +1,141 @@
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Arcadus.exe
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Arcadus.pdb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\obj\x86\Debug\Arcadus.exe
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\obj\x86\Debug\Arcadus.pdb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_left_w.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_right_e.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_left_w.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_right_e.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_left_n.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_left_nw.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_left_s.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_right_n.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_right_ne.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_right_s.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_right_se.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_left_n.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_left_nw.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_left_s.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_right_n.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_right_ne.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_right_s.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_right_se.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_left_sw.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_left_sw.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\bullet1.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\DarkKnight.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Tile.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\wall.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_all.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_bc.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_bl.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_br.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_cc.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_cl.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_cr.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_none.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_tc.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_tl.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_tr.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_all.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_bc.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_bl.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_br.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_cc.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_cl.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_cr.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_none.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_tc.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_tl.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_tr.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\splash.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Text.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\bullet2.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\sorcerer_1_left.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\sorcerer_1_right.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\sorcerer_2_left.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\sorcerer_2_right.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Troll_1_Left.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Troll_1_Right.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Troll_2_Left.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Troll_2_Right.xnb
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\GetLevel.dll
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\HtmlAgilityPack.dll
+C:\Users\s-ahoar\Desktop\Docs\Visual Studio\BabyCakes\Arcadus\Arcadus\Arcadus\bin\x86\Debug\GetLevel.pdb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_left_n.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_left_nw.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_left_s.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_left_w.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_right_e.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_right_n.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_right_ne.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_right_s.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_right_se.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_left_n.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_left_nw.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_left_s.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_left_w.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_right_e.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_right_n.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_right_ne.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_right_s.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_right_se.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_1_left_sw.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Man_2_left_sw.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\bullet1.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\DarkKnight.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Tile.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\wall.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_all.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_bc.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_bl.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_br.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_cc.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_cl.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_cr.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_none.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_tc.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_tl.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_dirt_tr.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_all.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_bc.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_bl.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_br.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_cc.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_cl.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_cr.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_none.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_tc.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_tl.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_metal_tr.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\splash.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\bullet2.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\sorcerer_1_left.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\sorcerer_1_right.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\sorcerer_2_left.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\sorcerer_2_right.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Troll_1_Left.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Troll_1_Right.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Troll_2_Left.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Troll_2_Right.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Text.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Arcadus.exe
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Arcadus.pdb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\GetLevel.dll
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\HtmlAgilityPack.dll
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\GetLevel.pdb
+D:\Arcadus\Arcadus\Arcadus\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Arcadus\Arcadus\Arcadus\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Arcadus\Arcadus\Arcadus\obj\x86\Debug\Arcadus.exe
+D:\Arcadus\Arcadus\Arcadus\obj\x86\Debug\Arcadus.pdb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_ethernet_bl.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_ethernet_br.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_ethernet_lb.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_ethernet_lt.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_ethernet_rb.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_ethernet_rt.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_ethernet_tl.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\tile_ethernet_tr.xnb
+D:\Arcadus\Arcadus\Arcadus\bin\x86\Debug\Content\Door.xnb
