@@ -32,7 +32,8 @@ namespace Arcadus
         }
 
         public override void Update() {
-            i %= 30;
+            i %= 15;
+            i += 1;
             //float bulletx = 0.0f;
             //float bullety = 0.0f;
             float dx = 0.0f;
@@ -50,22 +51,26 @@ namespace Arcadus
             }
             if (i % 15 == 0) {
                 this.step = "1";
+                Console.WriteLine("1step");
             }
             else if (i % 15 == 8) {
                 this.step = "2";
+                
             }
             if (i % 2 == 0) {
+                if (hero.X-5 < this.rect.X) { this.direction = "left"; }
+                else {this.direction = "right";}
                 if (this.atk == 0) {
-                    if (Math.Abs(((this.rect.X - hero.X) * (this.rect.X - hero.X) + (this.rect.Y - hero.Y) * (this.rect.Y - hero.Y))) <= 280 * 280) {
+                    if (Math.Abs(((this.rect.X - hero.X) * (this.rect.X - hero.X) + (this.rect.Y - hero.Y) * (this.rect.Y - hero.Y))) <= 180 * 180) {
 
                         
                         if (hero.X < this.rect.X) {
                             dx -= 4;
-                            this.direction = "left";
+
                         }
                         else if (hero.X > this.rect.X) {
                             dx += 4;
-                            this.direction = "right";
+
                         }
                         if (hero.Y < this.rect.Y) {
                             dy -= 4;
@@ -75,28 +80,7 @@ namespace Arcadus
                         }
 
                     }
-                    else {
-                        if (i % 10 == 0) {
-                            if (rand == 1) {
-                                dx += 4;
-                                this.direction = "right";
-
-                            }
-                            if (rand == 2) {
-                                dx -= 4;
-                                this.direction = "left";
-
-                            }
-                            if (rand == 3) {
-                                dy -= 4;
-
-                            }
-                            if (rand == 4) {
-                                dy += 4;
-
-                            }
-                        }
-                    }
+                    
 
                 }
                 else if (this.atk == 1) {
@@ -111,7 +95,7 @@ namespace Arcadus
             this.rect.Y += (int)(dy);
             for (int x = 0; x < (Main.map.grid.GetLength(0)); x++) {
                 for (int y = 0; y < (Main.map.grid.GetLength(1)); y++) {
-                    if (Main.map.grid[x, y].tile_type == 1) {
+                    if ((Main.map.grid[x, y].tile_type == 1)||(Main.map.grid[x, y].tile_type == 2)) {
                         if (this.rect.Intersects(Main.map.grid[x, y].rect)) {
                             go = false;
                         }

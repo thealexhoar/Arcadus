@@ -29,6 +29,11 @@ namespace Arcadus
             this.targetTile = new Point((int)(pos.X / 40), (int)(pos.Y / 40));
         }
         public override void Update(){
+            // set up variables
+            int xdif = 0;
+            int ydif = 0;
+            int collidex = 0;
+            int collidey = 0;
             float bulletx = 0.0f;
             float bullety = 0.0f;
             float dx = 0.0f;
@@ -56,34 +61,11 @@ namespace Arcadus
                 }
                 
             }
-            if (Keyboard.GetState().IsKeyDown(Keys.A))
-            {
-                //if (Main.map.grid[(this.rect.X / 40) - 1, (this.rect.Y / 40)].tile_type == 0) {
-                //    this.targetTile.X = (this.rect.X / 40) - 1;
-                //}
-                dx -= 5;
-            }
-            if (Keyboard.GetState().IsKeyDown(Keys.D))
-            {
-                //if (Main.map.grid[(this.rect.X / 40) + 1, (this.rect.Y / 40)].tile_type == 0) {
-                //    this.targetTile.X = (this.rect.X / 40) + 1;
-                //}
-                dx += 5;
-            }
-            if (Keyboard.GetState().IsKeyDown(Keys.W))
-            {
-                //if (Main.map.grid[(this.rect.X / 40), (this.rect.Y / 40) - 1].tile_type == 0) {
-                //    this.targetTile.Y = (this.rect.Y / 40) - 1;
-                //}
-                dy -= 5;
-            }
-            if (Keyboard.GetState().IsKeyDown(Keys.S))
-            {
-                //if (Main.map.grid[(this.rect.X / 40), (this.rect.Y / 40) + 1].tile_type == 0) {
-                //    this.targetTile.Y = (this.rect.Y / 40) + 1;
-                //}
-                dy += 5;
-            }
+            if (Keyboard.GetState().IsKeyDown(Keys.A)){dx -= 5;}
+            if (Keyboard.GetState().IsKeyDown(Keys.D)){dx += 5;}
+            if (Keyboard.GetState().IsKeyDown(Keys.W)){dy -= 5;}
+            if (Keyboard.GetState().IsKeyDown(Keys.S)){dy += 5;}
+
             this.rect.X += (int)(dx);
             this.rect.Y += (int)(dy);
             this.rect.Width = this.texture.Width;
@@ -97,6 +79,16 @@ namespace Arcadus
                         if (this.rect.Intersects(Main.map.grid[x, y].rect))
                         {
                             go = false;
+                            xdif = this.rect.Center.X - Main.map.grid[x, y].rect.Center.X;
+                            ydif = this.rect.Center.Y - Main.map.grid[x, y].rect.Center.Y;
+                            if (Math.Abs(xdif) > Math.Abs(ydif)) {
+                                if (xdif < 0) { collidex = Main.map.grid[x, y].rect.Left; collidey = 0; }
+                                if (xdif > 0) { collidex = Main.map.grid[x, y].rect.Right; collidey = 0; }
+                            }
+                            else {
+                                if (ydif < 0) { collidey = Main.map.grid[x, y].rect.Top; collidex = 0; }
+                                if (ydif > 0) { collidey = Main.map.grid[x, y].rect.Bottom; collidex = 0; }
+                            }
                         }
                     }
                     if (Main.map.grid[x, y].tile_type == 2) {
@@ -105,6 +97,7 @@ namespace Arcadus
                             Main.map.grid[x, y].InvokeDoorLink();
                             y = Main.map.grid.GetLength(1) - 1;
                             x = Main.map.grid.GetLength(0) - 1;
+
                         }
                     }
                 }
@@ -114,10 +107,7 @@ namespace Arcadus
             this.rect.Width = this.texture.Width;
             this.rect.Height = this.texture.Height;
 
-            //if (this.targetTile.X > this.pos.X / 40) { dx += 4; }
-            //if (this.targetTile.X < this.pos.X / 40) { dx -= 4; }
-            //if (this.targetTile.Y > this.pos.Y / 40) { dy += 4; }
-            //if (this.targetTile.Y < this.pos.Y / 40) { dy -= 4; }
+
 
             if (dy > 0)
             {
@@ -179,7 +169,17 @@ namespace Arcadus
 
             this.texture = this.content.Load<Texture2D>("Man_" + this.step + "_" + this.direction + "_" + this.aim);
             if (go) { this.speed = new Vector2(dx, dy); }
-            else { this.speed = new Vector2(0, 0); }
+            else {
+                this.speed = new Vector2(0, 0);
+                if (collidey != 0) {
+                    if (ydif < 0) { this.rect.Y = collidey - this.rect.Height;}
+                    if (ydif > 0) { this.rect.Y = collidey; }
+                }
+                if (collidex != 0) {
+                    if (xdif < 0) { this.rect.X = collidex - this.rect.Width;}
+                    if (xdif > 0) { this.rect.X = collidex;}
+                }
+            }
   
             base.Update();
         }

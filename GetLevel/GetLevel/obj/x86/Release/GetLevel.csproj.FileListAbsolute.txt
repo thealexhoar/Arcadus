@@ -10,3 +10,9 @@ F:\Dev\C#\Projects\Arcadus\GetLevel\GetLevel\bin\Release\HtmlAgilityPack.dll
 F:\Dev\C#\Projects\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.csprojResolveAssemblyReference.cache
 F:\Dev\C#\Projects\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.dll
 F:\Dev\C#\Projects\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.pdb
+C:\Users\Alex\Documents\GitHub\Arcadus\GetLevel\GetLevel\bin\Release\GetLevel.dll
+C:\Users\Alex\Documents\GitHub\Arcadus\GetLevel\GetLevel\bin\Release\GetLevel.pdb
+C:\Users\Alex\Documents\GitHub\Arcadus\GetLevel\GetLevel\bin\Release\HtmlAgilityPack.dll
+C:\Users\Alex\Documents\GitHub\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHub\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.dll
+C:\Users\Alex\Documents\GitHub\Arcadus\GetLevel\GetLevel\obj\x86\Release\GetLevel.pdb

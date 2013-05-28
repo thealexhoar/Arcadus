@@ -7,8 +7,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_left_n.xnb</Output>
-      <Time>2013-05-25T17:54:32-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_left_n.xnb</Output>
+      <Time>2013-05-28T16:11:12.4439229-07:00</Time>
     </Item>
     <Item>
       <Source>Man_1_left_nw.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_left_nw.xnb</Output>
-      <Time>2013-05-25T17:38:58-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_left_nw.xnb</Output>
+      <Time>2013-05-28T16:11:12.4439229-07:00</Time>
     </Item>
     <Item>
       <Source>Man_1_left_s.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_left_s.xnb</Output>
-      <Time>2013-05-25T17:50:12-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_left_s.xnb</Output>
+      <Time>2013-05-28T16:11:12.4439229-07:00</Time>
     </Item>
     <Item>
       <Source>Man_1_left_w.png</Source>
@@ -34,8 +34,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_left_w.xnb</Output>
-      <Time>2013-05-25T17:56:04-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_left_w.xnb</Output>
+      <Time>2013-05-28T16:11:12.4449245-07:00</Time>
     </Item>
     <Item>
       <Source>Man_1_right_e.png</Source>
@@ -43,8 +43,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_right_e.xnb</Output>
-      <Time>2013-05-25T17:55:44-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_right_e.xnb</Output>
+      <Time>2013-05-28T16:11:12.4449245-07:00</Time>
     </Item>
     <Item>
       <Source>Man_1_right_n.png</Source>
@@ -52,8 +52,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_right_n.xnb</Output>
-      <Time>2013-05-25T17:53:10-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_right_n.xnb</Output>
+      <Time>2013-05-28T16:11:12.4459243-07:00</Time>
     </Item>
     <Item>
       <Source>Man_1_right_ne.png</Source>
@@ -61,8 +61,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_right_ne.xnb</Output>
-      <Time>2013-05-25T17:39:42-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_right_ne.xnb</Output>
+      <Time>2013-05-28T16:11:12.4459243-07:00</Time>
     </Item>
     <Item>
       <Source>Man_1_right_s.png</Source>
@@ -70,8 +70,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_right_s.xnb</Output>
-      <Time>2013-05-25T17:48:00-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_right_s.xnb</Output>
+      <Time>2013-05-28T16:11:12.4469258-07:00</Time>
     </Item>
     <Item>
       <Source>Man_1_right_se.png</Source>
@@ -79,8 +79,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_right_se.xnb</Output>
-      <Time>2013-05-25T17:45:32-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_right_se.xnb</Output>
+      <Time>2013-05-28T16:11:12.4469258-07:00</Time>
     </Item>
     <Item>
       <Source>Man_2_left_n.png</Source>
@@ -88,8 +88,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_left_n.xnb</Output>
-      <Time>2013-05-25T17:54:48-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_left_n.xnb</Output>
+      <Time>2013-05-28T16:11:12.4469258-07:00</Time>
     </Item>
     <Item>
       <Source>Man_2_left_nw.png</Source>
@@ -97,8 +97,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_left_nw.xnb</Output>
-      <Time>2013-05-25T17:38:28-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_left_nw.xnb</Output>
+      <Time>2013-05-28T16:11:12.4479243-07:00</Time>
     </Item>
     <Item>
       <Source>Man_2_left_s.png</Source>
@@ -106,8 +106,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_left_s.xnb</Output>
-      <Time>2013-05-25T17:49:46-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_left_s.xnb</Output>
+      <Time>2013-05-28T16:11:12.4479243-07:00</Time>
     </Item>
     <Item>
       <Source>Man_2_left_w.png</Source>
@@ -115,8 +115,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_left_w.xnb</Output>
-      <Time>2013-05-25T17:56:30-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_left_w.xnb</Output>
+      <Time>2013-05-28T16:11:12.4499265-07:00</Time>
     </Item>
     <Item>
       <Source>Man_2_right_e.png</Source>
@@ -124,8 +124,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_right_e.xnb</Output>
-      <Time>2013-05-25T17:56:46-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_right_e.xnb</Output>
+      <Time>2013-05-28T16:11:12.4499265-07:00</Time>
     </Item>
     <Item>
       <Source>Man_2_right_n.png</Source>
@@ -133,8 +133,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_right_n.xnb</Output>
-      <Time>2013-05-25T17:54:00-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_right_n.xnb</Output>
+      <Time>2013-05-28T16:11:12.450928-07:00</Time>
     </Item>
     <Item>
       <Source>Man_2_right_ne.png</Source>
@@ -142,8 +142,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_right_ne.xnb</Output>
-      <Time>2013-05-25T17:39:24-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_right_ne.xnb</Output>
+      <Time>2013-05-28T16:11:12.450928-07:00</Time>
     </Item>
     <Item>
       <Source>Man_2_right_s.png</Source>
@@ -151,8 +151,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_right_s.xnb</Output>
-      <Time>2013-05-25T17:49:12-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_right_s.xnb</Output>
+      <Time>2013-05-28T16:11:12.450928-07:00</Time>
     </Item>
     <Item>
       <Source>Man_2_right_se.png</Source>
@@ -160,8 +160,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_right_se.xnb</Output>
-      <Time>2013-05-25T17:44:24-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_right_se.xnb</Output>
+      <Time>2013-05-28T16:11:12.4519274-07:00</Time>
     </Item>
     <Item>
       <Source>Man_1_left_sw.png</Source>
@@ -169,8 +169,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_left_sw.xnb</Output>
-      <Time>2013-05-25T18:01:10-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_1_left_sw.xnb</Output>
+      <Time>2013-05-28T16:11:12.4449245-07:00</Time>
     </Item>
     <Item>
       <Source>Man_2_left_sw.png</Source>
@@ -178,8 +178,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_left_sw.xnb</Output>
-      <Time>2013-05-25T18:00:56-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Man_2_left_sw.xnb</Output>
+      <Time>2013-05-28T16:11:12.4489258-07:00</Time>
     </Item>
     <Item>
       <Source>bullet1.png</Source>
@@ -187,17 +187,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\bullet1.xnb</Output>
-      <Time>2013-05-25T20:29:38-07:00</Time>
-    </Item>
-    <Item>
-      <Source>DarkKnight.png</Source>
-      <Name>DarkKnight</Name>
-      <Importer>TextureImporter</Importer>
-      <Processor>TextureProcessor</Processor>
-      <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\DarkKnight.xnb</Output>
-      <Time>2013-05-25T22:07:14-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\bullet1.xnb</Output>
+      <Time>2013-05-28T16:11:12.4539287-07:00</Time>
     </Item>
     <Item>
       <Source>Tile.png</Source>
@@ -205,8 +196,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Tile.xnb</Output>
-      <Time>2013-05-25T22:47:52-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Tile.xnb</Output>
+      <Time>2013-05-28T16:11:12.4529281-07:00</Time>
     </Item>
     <Item>
       <Source>wall.png</Source>
@@ -214,8 +205,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\wall.xnb</Output>
-      <Time>2013-05-26T00:40:38-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\wall.xnb</Output>
+      <Time>2013-05-28T16:11:12.4769449-07:00</Time>
     </Item>
     <Item>
       <Source>tile_dirt_all.png</Source>
@@ -223,8 +214,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_all.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_all.xnb</Output>
+      <Time>2013-05-28T16:11:12.4629352-07:00</Time>
     </Item>
     <Item>
       <Source>tile_dirt_bc.png</Source>
@@ -232,8 +223,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_bc.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_bc.xnb</Output>
+      <Time>2013-05-28T16:11:12.4629352-07:00</Time>
     </Item>
     <Item>
       <Source>tile_dirt_bl.png</Source>
@@ -241,8 +232,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_bl.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_bl.xnb</Output>
+      <Time>2013-05-28T16:11:12.4629352-07:00</Time>
     </Item>
     <Item>
       <Source>tile_dirt_br.png</Source>
@@ -250,8 +241,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_br.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_br.xnb</Output>
+      <Time>2013-05-28T16:11:12.4639358-07:00</Time>
     </Item>
     <Item>
       <Source>tile_dirt_cc.png</Source>
@@ -259,8 +250,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_cc.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_cc.xnb</Output>
+      <Time>2013-05-28T16:11:12.4639358-07:00</Time>
     </Item>
     <Item>
       <Source>tile_dirt_cl.png</Source>
@@ -268,8 +259,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_cl.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_cl.xnb</Output>
+      <Time>2013-05-28T16:11:12.4649369-07:00</Time>
     </Item>
     <Item>
       <Source>tile_dirt_cr.png</Source>
@@ -277,8 +268,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_cr.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_cr.xnb</Output>
+      <Time>2013-05-28T16:11:12.4649369-07:00</Time>
     </Item>
     <Item>
       <Source>tile_dirt_none.png</Source>
@@ -286,8 +277,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_none.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_none.xnb</Output>
+      <Time>2013-05-28T16:11:12.4659363-07:00</Time>
     </Item>
     <Item>
       <Source>tile_dirt_tc.png</Source>
@@ -295,8 +286,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_tc.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_tc.xnb</Output>
+      <Time>2013-05-28T16:11:12.4659363-07:00</Time>
     </Item>
     <Item>
       <Source>tile_dirt_tl.png</Source>
@@ -304,8 +295,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_tl.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_tl.xnb</Output>
+      <Time>2013-05-28T16:11:12.4669391-07:00</Time>
     </Item>
     <Item>
       <Source>tile_dirt_tr.png</Source>
@@ -313,8 +304,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_tr.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_dirt_tr.xnb</Output>
+      <Time>2013-05-28T16:11:12.4669391-07:00</Time>
     </Item>
     <Item>
       <Source>tile_metal_all.png</Source>
@@ -322,8 +313,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_all.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_all.xnb</Output>
+      <Time>2013-05-28T16:11:12.4729422-07:00</Time>
     </Item>
     <Item>
       <Source>tile_metal_bc.png</Source>
@@ -331,8 +322,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_bc.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_bc.xnb</Output>
+      <Time>2013-05-28T16:11:12.4729422-07:00</Time>
     </Item>
     <Item>
       <Source>tile_metal_bl.png</Source>
@@ -340,8 +331,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_bl.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_bl.xnb</Output>
+      <Time>2013-05-28T16:11:12.4739429-07:00</Time>
     </Item>
     <Item>
       <Source>tile_metal_br.png</Source>
@@ -349,8 +340,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_br.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_br.xnb</Output>
+      <Time>2013-05-28T16:11:12.4739429-07:00</Time>
     </Item>
     <Item>
       <Source>tile_metal_cc.png</Source>
@@ -358,8 +349,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_cc.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_cc.xnb</Output>
+      <Time>2013-05-28T16:11:12.4749513-07:00</Time>
     </Item>
     <Item>
       <Source>tile_metal_cl.png</Source>
@@ -367,8 +358,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_cl.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_cl.xnb</Output>
+      <Time>2013-05-28T16:11:12.4749513-07:00</Time>
     </Item>
     <Item>
       <Source>tile_metal_cr.png</Source>
@@ -376,8 +367,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_cr.xnb</Output>
-      <Time>2013-05-26T03:00:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_cr.xnb</Output>
+      <Time>2013-05-28T16:11:12.4749513-07:00</Time>
     </Item>
     <Item>
       <Source>tile_metal_none.png</Source>
@@ -385,8 +376,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_none.xnb</Output>
-      <Time>2013-05-26T03:00:22-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_none.xnb</Output>
+      <Time>2013-05-28T16:11:12.475943-07:00</Time>
     </Item>
     <Item>
       <Source>tile_metal_tc.png</Source>
@@ -394,8 +385,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_tc.xnb</Output>
-      <Time>2013-05-26T03:00:22-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_tc.xnb</Output>
+      <Time>2013-05-28T16:11:12.475943-07:00</Time>
     </Item>
     <Item>
       <Source>tile_metal_tl.png</Source>
@@ -403,8 +394,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_tl.xnb</Output>
-      <Time>2013-05-26T03:00:22-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_tl.xnb</Output>
+      <Time>2013-05-28T16:11:12.4769449-07:00</Time>
     </Item>
     <Item>
       <Source>tile_metal_tr.png</Source>
@@ -412,8 +403,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_tr.xnb</Output>
-      <Time>2013-05-26T03:00:22-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_metal_tr.xnb</Output>
+      <Time>2013-05-28T16:11:12.4769449-07:00</Time>
     </Item>
     <Item>
       <Source>splash.png</Source>
@@ -421,8 +412,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\splash.xnb</Output>
-      <Time>2013-05-26T04:53:14-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\splash.xnb</Output>
+      <Time>2013-05-28T16:11:12.4619336-07:00</Time>
     </Item>
     <Item>
       <Source>bullet2.png</Source>
@@ -430,8 +421,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\bullet2.xnb</Output>
-      <Time>2013-05-26T05:55:30-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\bullet2.xnb</Output>
+      <Time>2013-05-28T16:11:12.4549303-07:00</Time>
     </Item>
     <Item>
       <Source>sorcerer_1_left.png</Source>
@@ -439,8 +430,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\sorcerer_1_left.xnb</Output>
-      <Time>2013-05-25T19:57:44-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\sorcerer_1_left.xnb</Output>
+      <Time>2013-05-28T16:11:12.4599344-07:00</Time>
     </Item>
     <Item>
       <Source>sorcerer_1_right.png</Source>
@@ -448,8 +439,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\sorcerer_1_right.xnb</Output>
-      <Time>2013-05-25T19:47:30-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\sorcerer_1_right.xnb</Output>
+      <Time>2013-05-28T16:11:12.4609334-07:00</Time>
     </Item>
     <Item>
       <Source>sorcerer_2_left.png</Source>
@@ -457,8 +448,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\sorcerer_2_left.xnb</Output>
-      <Time>2013-05-25T19:57:10-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\sorcerer_2_left.xnb</Output>
+      <Time>2013-05-28T16:11:12.4609334-07:00</Time>
     </Item>
     <Item>
       <Source>sorcerer_2_right.png</Source>
@@ -466,8 +457,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\sorcerer_2_right.xnb</Output>
-      <Time>2013-05-25T19:52:58-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\sorcerer_2_right.xnb</Output>
+      <Time>2013-05-28T16:11:12.4619336-07:00</Time>
     </Item>
     <Item>
       <Source>Troll_1_Left.png</Source>
@@ -475,8 +466,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Troll_1_Left.xnb</Output>
-      <Time>2013-05-25T20:13:52-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Troll_1_Left.xnb</Output>
+      <Time>2013-05-28T16:11:12.4529281-07:00</Time>
     </Item>
     <Item>
       <Source>Troll_1_Right.png</Source>
@@ -484,8 +475,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Troll_1_Right.xnb</Output>
-      <Time>2013-05-25T20:13:32-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Troll_1_Right.xnb</Output>
+      <Time>2013-05-28T16:11:12.4529281-07:00</Time>
     </Item>
     <Item>
       <Source>Troll_2_Left.png</Source>
@@ -493,8 +484,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Troll_2_Left.xnb</Output>
-      <Time>2013-05-25T20:15:56-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Troll_2_Left.xnb</Output>
+      <Time>2013-05-28T16:11:12.4539287-07:00</Time>
     </Item>
     <Item>
       <Source>Troll_2_Right.png</Source>
@@ -502,8 +493,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Troll_2_Right.xnb</Output>
-      <Time>2013-05-25T23:56:10-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Troll_2_Right.xnb</Output>
+      <Time>2013-05-28T16:11:12.4539287-07:00</Time>
     </Item>
     <Item>
       <Source>tile_ethernet_bl.png</Source>
@@ -511,8 +502,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_bl.xnb</Output>
-      <Time>2013-05-26T07:51:18-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_bl.xnb</Output>
+      <Time>2013-05-28T16:11:12.4669391-07:00</Time>
     </Item>
     <Item>
       <Source>tile_ethernet_br.png</Source>
@@ -520,8 +511,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_br.xnb</Output>
-      <Time>2013-05-26T07:51:18-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_br.xnb</Output>
+      <Time>2013-05-28T16:11:12.4679385-07:00</Time>
     </Item>
     <Item>
       <Source>tile_ethernet_lb.png</Source>
@@ -529,8 +520,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_lb.xnb</Output>
-      <Time>2013-05-26T07:51:18-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_lb.xnb</Output>
+      <Time>2013-05-28T16:11:12.4679385-07:00</Time>
     </Item>
     <Item>
       <Source>tile_ethernet_lt.png</Source>
@@ -538,8 +529,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_lt.xnb</Output>
-      <Time>2013-05-26T07:51:18-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_lt.xnb</Output>
+      <Time>2013-05-28T16:11:12.4689387-07:00</Time>
     </Item>
     <Item>
       <Source>tile_ethernet_rb.png</Source>
@@ -547,8 +538,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_rb.xnb</Output>
-      <Time>2013-05-26T07:51:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_rb.xnb</Output>
+      <Time>2013-05-28T16:11:12.4689387-07:00</Time>
     </Item>
     <Item>
       <Source>tile_ethernet_rt.png</Source>
@@ -556,8 +547,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_rt.xnb</Output>
-      <Time>2013-05-26T07:51:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_rt.xnb</Output>
+      <Time>2013-05-28T16:11:12.4689387-07:00</Time>
     </Item>
     <Item>
       <Source>tile_ethernet_tl.png</Source>
@@ -565,8 +556,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_tl.xnb</Output>
-      <Time>2013-05-26T07:51:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_tl.xnb</Output>
+      <Time>2013-05-28T16:11:12.4719416-07:00</Time>
     </Item>
     <Item>
       <Source>tile_ethernet_tr.png</Source>
@@ -574,8 +565,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_tr.xnb</Output>
-      <Time>2013-05-26T07:51:20-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\tile_ethernet_tr.xnb</Output>
+      <Time>2013-05-28T16:11:12.4719416-07:00</Time>
     </Item>
     <Item>
       <Source>Door.png</Source>
@@ -583,8 +574,17 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Door.xnb</Output>
-      <Time>2013-05-26T07:52:48-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Door.xnb</Output>
+      <Time>2013-05-28T16:11:12.4429231-07:00</Time>
+    </Item>
+    <Item>
+      <Source>heart.png</Source>
+      <Name>heart</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\heart.xnb</Output>
+      <Time>2013-05-28T16:11:12.4549303-07:00</Time>
     </Item>
     <Item>
       <Source>Text.spritefont</Source>
@@ -592,8 +592,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Text.xnb</Output>
-      <Time>2013-05-27T22:06:36.984754-07:00</Time>
+      <Output>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\Text.xnb</Output>
+      <Time>2013-05-28T16:11:12.4519274-07:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -601,39 +601,39 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Release</BuildConfiguration>
       <CompressContent>true</CompressContent>
-      <RootDirectory>D:\Dev\C#\Projects\Arcadus\Arcadus\ArcadusContent\</RootDirectory>
-      <LoggerRootDirectory>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\</LoggerRootDirectory>
-      <IntermediateDirectory>D:\Dev\C#\Projects\Arcadus\Arcadus\ArcadusContent\obj\x86\Release\</IntermediateDirectory>
-      <OutputDirectory>D:\Dev\C#\Projects\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\ArcadusContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\ArcadusContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Alex\Documents\GitHub\Arcadus\Arcadus\Arcadus\bin\x86\Release\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
-        <Value>2010-08-23T13:41:18-07:00</Value>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
       </Assembly>
       <Assembly>
-        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
-        <Value>2013-02-13T11:45:12.8288842-08:00</Value>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-05-27T10:12:09.7967376-07:00</Value>
       </Assembly>
     </Assemblies>
   </Asset>

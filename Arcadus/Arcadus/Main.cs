@@ -37,7 +37,6 @@ namespace Arcadus
         }
 
         public Hero ex;
-        Mob[] mobs = new Mob[10];
         Entity splash;
         Label pushToStart;
         protected override void Initialize() {
@@ -82,15 +81,18 @@ namespace Arcadus
             this.StartLevel("google.com");
         }
         protected void StartLevel(string url) {
+            
             GV.EntityList.Clear();
             this.BackgroundColor = new Color(10, 10, 10);
             Console.WriteLine("Loading remote site...");
             map = new Map(url, "type", Content);
+            int mobNum = (map.grid.GetLength(0)*map.grid.GetLength(1))/36;
+            Mob[] mobs = new Mob[mobNum];
             Console.WriteLine("Finished loading remote site");
             if (map.hasError) { map.title = "Unable to retrieve remote data"; }
             ex = new Hero(new Vector2(40.0f), new Vector2(1.0f), "Man_1_right_e", Content);
-            for (int x = 0; x < 3; x++) {
-                mobs[x] = new Mob(new Vector2((float)(random.Next(0,(map.grid.GetLength(0)*40)) ), (float)(random.Next(0, (map.grid.GetLength(1)*40)) )), "Troll_1_right", Content, "Troll", 0, 1);
+            for (int x = 0; x < mobNum; x++) {
+                mobs[x] = new Mob(new Vector2((float)(random.Next(80,(map.grid.GetLength(0)*40 - 100)) ), (float)(random.Next(80, (map.grid.GetLength(1)*40-100)) )), "Troll_1_right", Content, "Troll", 0, 1);
             }
             ex.LoadContent();
             map.DetermineTileGraphics();
