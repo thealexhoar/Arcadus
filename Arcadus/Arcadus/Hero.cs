@@ -58,32 +58,12 @@ namespace Arcadus
             }
             if (Keyboard.GetState().IsKeyDown(Keys.A))
             {
-                //if (Main.map.grid[(this.rect.X / 40) - 1, (this.rect.Y / 40)].tile_type == 0) {
-                //    this.targetTile.X = (this.rect.X / 40) - 1;
-                //}
+
                 dx -= 5;
             }
-            if (Keyboard.GetState().IsKeyDown(Keys.D))
-            {
-                //if (Main.map.grid[(this.rect.X / 40) + 1, (this.rect.Y / 40)].tile_type == 0) {
-                //    this.targetTile.X = (this.rect.X / 40) + 1;
-                //}
-                dx += 5;
-            }
-            if (Keyboard.GetState().IsKeyDown(Keys.W))
-            {
-                //if (Main.map.grid[(this.rect.X / 40), (this.rect.Y / 40) - 1].tile_type == 0) {
-                //    this.targetTile.Y = (this.rect.Y / 40) - 1;
-                //}
-                dy -= 5;
-            }
-            if (Keyboard.GetState().IsKeyDown(Keys.S))
-            {
-                //if (Main.map.grid[(this.rect.X / 40), (this.rect.Y / 40) + 1].tile_type == 0) {
-                //    this.targetTile.Y = (this.rect.Y / 40) + 1;
-                //}
-                dy += 5;
-            }
+            if (Keyboard.GetState().IsKeyDown(Keys.D)){dx += 5;}
+            if (Keyboard.GetState().IsKeyDown(Keys.W)){dy -= 5;}
+            if (Keyboard.GetState().IsKeyDown(Keys.S)){dy += 5;}
             this.rect.X += (int)(dx);
             this.rect.Y += (int)(dy);
             this.rect.Width = this.texture.Width;
