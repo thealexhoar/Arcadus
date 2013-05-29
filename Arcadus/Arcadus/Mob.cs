@@ -18,8 +18,8 @@ namespace Arcadus
         Point targetTile;
         public int hp;
 
-        public Mob(Vector2 pos, String asset, ContentManager content, String name, int atk, int hp)
-            :base(pos, new Vector2 (0.0f),asset, content)
+        public Mob(Vector2 pos,  ContentManager content, String name, int atk, int hp)
+            :base(pos, new Vector2 (0.0f),(name+"_1_right"), content)
         {
             this.hp = hp;
             this.name = name;
