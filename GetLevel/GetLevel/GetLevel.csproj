@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="LevelGen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Testing.cs" />
     <Compile Include="WebPageParser.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

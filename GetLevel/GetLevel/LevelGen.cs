@@ -15,23 +15,18 @@ namespace GetLevel {
         public Color primaryColor;
 
         public LevelGen(string url) {
-            //while (true) {
-                //Console.Write("Enter a URL: ");
-                try {
-                    //String uri = Console.ReadLine();
-                    //if (uri.Equals("q")) Environment.Exit(1);
-                    web = WebPageParser.FromUrl(url);
-                }
-                catch (Exception e) {
-                    Console.WriteLine(e);
-                    web = new WebPageParser();
-                }
-                this.GetLevel(web.GetTotalWebsiteElements());
-                this.MakeDoors(Math.Min((LevelGrid.GetLength(0) + LevelGrid.GetLength(1)) / 2, web.GetAllLinks().Count));
-                this.title = web.GetWebpageTitle();
-                this.colors = GetAllColors(web);
-                this.primaryColor = getMostColorful(this.colors);
-            //}
+            try {
+                web = WebPageParser.FromUrl(url);
+            }
+            catch (Exception e) {
+                Console.WriteLine(e);
+                web = new WebPageParser();
+            }
+            this.GetLevel(web.GetTotalWebsiteElements());
+            this.MakeDoors(Math.Min((LevelGrid.GetLength(0) + LevelGrid.GetLength(1)) / 2, web.GetAllLinks().Count));
+            this.title = web.GetWebpageTitle();
+            this.colors = GetAllColors(web);
+            this.primaryColor = getMostColorful(this.colors);
         }
 
         private List<Color> GetAllColors(WebPageParser wbpp) {
